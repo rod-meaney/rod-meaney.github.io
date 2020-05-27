@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.1aada252.chunk.js",
+    "main.js.map": "/static/js/main.1aada252.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5668381c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5668381c.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e06cf065.chunk.js": "/static/js/2.e06cf065.chunk.js",
+    "static/js/2.e06cf065.chunk.js.map": "/static/js/2.e06cf065.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f949a75b50a0fcad49120ff08c27c5aa.js": "/precache-manifest.f949a75b50a0fcad49120ff08c27c5aa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e06cf065.chunk.js.LICENSE.txt": "/static/js/2.e06cf065.chunk.js.LICENSE.txt",
+    "static/media/BlueFootLeft.png": "/static/media/BlueFootLeft.370e17c6.png",
+    "static/media/BlueFootRight.png": "/static/media/BlueFootRight.c4b3d312.png",
+    "static/media/BlueHandLeft.png": "/static/media/BlueHandLeft.84637e8d.png",
+    "static/media/BlueHandRight.png": "/static/media/BlueHandRight.697ddf11.png",
+    "static/media/GreenFootLeft.png": "/static/media/GreenFootLeft.d08f3fcf.png",
+    "static/media/GreenFootRight.png": "/static/media/GreenFootRight.eac71a0e.png",
+    "static/media/GreenHandLeft.png": "/static/media/GreenHandLeft.9e4c7f2f.png",
+    "static/media/GreenHandRight.png": "/static/media/GreenHandRight.8d85ed72.png",
+    "static/media/RedFootLeft.png": "/static/media/RedFootLeft.acca21ef.png",
+    "static/media/RedFootRight.png": "/static/media/RedFootRight.fe0185cb.png",
+    "static/media/RedHandLeft.png": "/static/media/RedHandLeft.0b8c3b4b.png",
+    "static/media/RedHandRight.png": "/static/media/RedHandRight.b05f30ae.png",
+    "static/media/YellowFootLeft.png": "/static/media/YellowFootLeft.01f8466c.png",
+    "static/media/YellowFootRight.png": "/static/media/YellowFootRight.009e8b37.png",
+    "static/media/YellowHandLeft.png": "/static/media/YellowHandLeft.835fbc9d.png",
+    "static/media/YellowHandRight.png": "/static/media/YellowHandRight.a6a5aa30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5668381c.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e06cf065.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1aada252.chunk.js"
+  ]
+}
